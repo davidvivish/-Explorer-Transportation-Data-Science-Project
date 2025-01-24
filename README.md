@@ -22,9 +22,4 @@ Cyclist safety is a growing concern in urban environments like NYC, where cyclin
 2. **Bike Lane Installation Data**: NYC Department of Transportation.
 
 ## **Team Members**
-- Shengwei Dai
-- Julia Moncayo von Hase
-- Bennett Jonathan
-- Nathan Tuil
-- Yuka Sogawa
-- David Vivish
+Shengwei Dai, Julia Moncayo von Hase, Bennett Jonathan, Nathan Tuil, Yuka Sogawa, David Vivish
